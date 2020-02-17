@@ -2,7 +2,7 @@
   "posts" :
    [
       { "id":1,
-        "name":"test 1"
+        "name":"test1"
       }
   ]
 }
