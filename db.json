@@ -1,5 +1,5 @@
 [
-  { name:"test",
-    data:"test"
+  { "name":"test",
+    "data":"test"
   }
 ]
